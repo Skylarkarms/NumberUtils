@@ -1,6 +1,6 @@
 # NumberUtils
 
-[latest version] = `1.0.0`
+[latest version] = `1.0.1`
 
 Math utilities and convenience functions.
 
